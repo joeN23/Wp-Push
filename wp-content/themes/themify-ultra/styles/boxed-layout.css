@@ -1,0 +1,56 @@
+/*
+BOXED LAYOUT
+================================================ */
+.boxed-layout {
+	background-color: #ddd;
+}
+#pagewrap {
+	width: 1236px;
+	margin: 27px auto;
+	max-width: 95%;
+	background-color: #fff;
+	position: relative;
+}
+body:not(.fixed-header-on) #pagewrap #headerwrap {
+	top: 0;
+}
+#header {
+	padding: 2em 0 1em;
+}
+
+/* boxed layout cart wrap */
+.slide-cart #main-nav-wrap {
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex; /* Safari */
+	display: flex;
+	-webkit-align-items: center; /* Safari 7.0+ */
+	align-items: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	position: relative;
+}
+.fixed-header-on.slide-cart #main-nav-wrap,
+.slide-cart #main-nav {
+	position: static;
+}
+
+/* mobile menu active */
+.mobile_menu_active.boxed-layout #pagewrap {
+	max-width: 95%;
+}
+
+/* boxed layout slide cart */
+.mobile_menu_active.slide-cart #main-nav-wrap {
+	display: block;
+}
+.mobile_menu_active .cart-wrap {
+	top: 37px;
+}
+.mobile_menu_active.slide-cart #headerwrap #menu-icon {
+	right: 50px;
+}
+.mobile_menu_active.slide-cart #headerwrap.fixed-header #menu-icon {
+	right: 75px;
+}

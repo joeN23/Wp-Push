@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-06-29 03:36:23
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.8
+WORDPRESS:	4.8
+PHP INFO:	5.6.25 | SAPI: apache2handler
+SERVER:		Apache/2.4.23 (Win64) PHP/5.6.25 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 52MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:14 | filtered:0 | create:14 
+FILTERED: [] 
+SQL CREATED: 20170629_kipepeomentorshipprogram_74fe915e36aa13342429170629033550_database.sql 
+SQL FILE SIZE: 3.19MB (3344229) 
+SQL FILE TIME: 2017-06-29 03:36:24 
+SQL RUNTIME: 0.75 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/wamp64/www/kipepeomtp 
+ARCHIVE FILE: 20170629_kipepeomentorshipprogram_74fe915e36aa13342429170629033550_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	49.73MB 
+STATS:	Dirs 273 | Files 2,655 
+SQL ADDED: 20170629_kipepeomentorshipprogram_74fe915e36aa13342429170629033550_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2928
+    [filename] => C:\wamp64\www\kipepeomtp\wp-snapshots\tmp\20170629_kipepeomentorshipprogram_74fe915e36aa13342429170629033550_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 28.62MB 
+ARCHIVE RUNTIME: 39.62 sec. 
+MEMORY STACK: 53.5MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [C:/wamp64/www/kipepeomtp/wp-snapshots/tmp/20170629_kipepeomentorshipprogram_74fe915e36aa13342429170629033550_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 3.19MB 
+Installer File: 428.46KB 
+Archive File: 28.62MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 40.96 sec.
+PEAK PHP MEMORY USED: 55.5MB
+DONE PROCESSING => 20170629_kipepeomentorshipprogram 2017-06-29 03:37:04
+ 
